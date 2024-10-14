@@ -1,5 +1,5 @@
 [build]
-  publish = "ProjectA/HTML"  # ระบุโฟลเดอร์ Publish Directory
+  publish = "Project-main/ProjectA/HTML"  # ระบุโฟลเดอร์ Publish Directory
   command = ""
 [[redirects]]
   from = "/*"
