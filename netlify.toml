@@ -1,7 +1,0 @@
-[build]
-  publish = "ProjectA/HTML"  # ระบุโฟลเดอร์ Publish Directory
-
-[[redirects]]
-  from = "/*"
-  to = "/Home.html"
-  status = 200
