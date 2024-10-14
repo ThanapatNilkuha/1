@@ -4,4 +4,18 @@
 [[redirects]]
   from = "/*"
   to = "/Home.html"
+  status = 200 
+  force = true
+
+[[redirects]]
+  from = "/css/*"
+  to = "/css/:splat"
   status = 200
+  force = true
+
+[[redirects]]
+  from = "/images/*"
+  to = "/images/:splat"
+  status = 200
+  force = true
+
