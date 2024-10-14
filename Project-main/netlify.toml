@@ -14,8 +14,13 @@
   force = true
 
 [[redirects]]
-  from = "/images/*"
-  to = "/images/:splat"
+  from = "/poto/art toy/*"
+  to = "/poto/art toy/:splat"
   status = 200
   force = true
 
+[[redirects]]
+  from = "/poto/model/*"
+  to = "/poto/model/:splat"
+  status = 200
+  force = true
