@@ -1,0 +1,7 @@
+[build]
+  publish = "html"     # ระบุโฟลเดอร์ที่เป็น Publish Directory
+
+[[redirects]]
+  from = "/*"
+  to = "/home.html"
+  status = 200
